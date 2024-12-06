@@ -11,20 +11,20 @@
       "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:tradetests\\tradetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\interfaces\\icategoryrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:interfaces\\icategoryrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\interfaces\\itrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:interfaces\\itrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\interfaces\\icategoryrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:interfaces\\icategoryrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\classes\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:classes\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 303,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,10 +55,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -83,12 +79,11 @@
               "RelativeToolTip": "TradeTests\\TradeTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T00:36:53.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T00:36:53.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ITrade.cs",
               "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Interfaces\\ITrade.cs",
               "RelativeDocumentMoniker": "Interfaces\\ITrade.cs",
@@ -96,12 +91,11 @@
               "RelativeToolTip": "Interfaces\\ITrade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T00:23:06.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T00:23:06.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ICategoryRule.cs",
               "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Interfaces\\ICategoryRule.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICategoryRule.cs",
@@ -109,12 +103,11 @@
               "RelativeToolTip": "Interfaces\\ICategoryRule.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T00:23:06.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T00:23:06.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Trade.cs",
               "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Classes\\Trade.cs",
               "RelativeDocumentMoniker": "Classes\\Trade.cs",
@@ -122,12 +115,11 @@
               "RelativeToolTip": "Classes\\Trade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T19:36:08.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T19:36:08.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -135,18 +127,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T19:18:42.489Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 145,
-          "SelectedChildIndex": -1,
-          "Children": [
+              "WhenOpened": "2024-12-03T19:18:42.489Z"
+            },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

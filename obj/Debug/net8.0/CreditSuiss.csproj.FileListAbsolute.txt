@@ -97,3 +97,4 @@ C:\Users\caladoj1\source\repos\CreditSuiss\bin\Debug\net8.0\zh-Hant\Microsoft.Te
 C:\Users\caladoj1\source\repos\CreditSuiss\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\caladoj1\source\repos\CreditSuiss\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\caladoj1\source\repos\CreditSuiss\obj\Debug\net8.0\CreditSu.069A126D.Up2Date
+C:\Users\caladoj1\source\repos\CreditSuiss\obj\Debug\net8.0\CreditSuiss.sourcelink.json

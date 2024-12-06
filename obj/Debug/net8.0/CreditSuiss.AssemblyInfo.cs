@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreditSuiss")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58479127d5c0be5528fcb5d9876f46180a7b3f18")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreditSuiss")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreditSuiss")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\classes\\categorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:classes\\categorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\tradetests\\tradetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:tradetests\\tradetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\interfaces\\icategoryrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:interfaces\\icategoryrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\interfaces\\itrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:interfaces\\itrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|c:\\users\\caladoj1\\source\\repos\\creditsuiss\\classes\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8BF39-5FBC-4AB8-8946-6E999A7FED70}|CreditSuiss.csproj|solutionrelative:classes\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categorizer.cs",
+              "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Classes\\Categorizer.cs",
+              "RelativeDocumentMoniker": "Classes\\Categorizer.cs",
+              "ToolTip": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Classes\\Categorizer.cs",
+              "RelativeToolTip": "Classes\\Categorizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:53:43.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradeTest.cs",
+              "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\TradeTests\\TradeTest.cs",
+              "RelativeDocumentMoniker": "TradeTests\\TradeTest.cs",
+              "ToolTip": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\TradeTests\\TradeTest.cs",
+              "RelativeToolTip": "TradeTests\\TradeTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:36:53.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITrade.cs",
+              "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Interfaces\\ITrade.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITrade.cs",
+              "ToolTip": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Interfaces\\ITrade.cs",
+              "RelativeToolTip": "Interfaces\\ITrade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:23:06.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRule.cs",
+              "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Interfaces\\ICategoryRule.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategoryRule.cs",
+              "ToolTip": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Interfaces\\ICategoryRule.cs",
+              "RelativeToolTip": "Interfaces\\ICategoryRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:23:06.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Classes\\Trade.cs",
+              "RelativeDocumentMoniker": "Classes\\Trade.cs",
+              "ToolTip": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Classes\\Trade.cs",
+              "RelativeToolTip": "Classes\\Trade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:36:08.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\caladoj1\\source\\repos\\CreditSuiss\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:18:42.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
